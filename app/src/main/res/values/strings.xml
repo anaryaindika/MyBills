@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="username_textInput">Username</string>
+    <string name="password_textInput">Password</string>
+</resources>
